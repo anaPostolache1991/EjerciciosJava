@@ -12,8 +12,8 @@ public class ejercicio3 {
 
 	
 	public static void cadena2() {
-		String a="sveta";
-		String b="sv ";
+		String a="elmur";
+		String b="el";
 		char l=' ';
 		char l2=' ';
 		int cont=0;

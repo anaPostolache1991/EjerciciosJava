@@ -9,7 +9,7 @@ public static void cadenaInvertid(String str) {
 	String cadenaIn=" ";
 	for(int i=str.length()-1;i>=0;i--) {
 		cadenaIn=cadenaIn+str.charAt(i);
-		//System.out.println(cadenaIn);
+		
 	}
 	System.out.println(cadenaIn);
 	
